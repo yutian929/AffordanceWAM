@@ -146,7 +146,7 @@ in the root directory, it can be used directly as the statistics file for the cu
 
 ## Inference with Released Checkpoints
 
-The released checkpoints and their corresponding dataset stats are available on Hugging Face.
+The released checkpoints and their corresponding dataset stats are available on [Hugging Face](https://huggingface.co/yuanty/fastwam).
 
 Optional: download released checkpoints and dataset stats from Hugging Face:
 

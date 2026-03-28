@@ -146,7 +146,7 @@ data/robotwin2.0/dataset_stats.json
 
 ## 使用 Release 权重推理
 
-release 的模型权重以及对应的 dataset stats 会发布到 Hugging Face。
+release 的模型权重以及对应的 dataset stats 已经发布到 [Hugging Face](https://huggingface.co/yuanty/fastwam).
 
 从 Hugging Face 下载 release 权重和 dataset stats：
 
